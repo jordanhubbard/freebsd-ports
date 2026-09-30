@@ -1133,7 +1133,7 @@
     SUBDIR += py-pypcap
     SUBDIR += py-pyprowl
     SUBDIR += py-pyroute2
-    SUBDIR += py-pyroute2.minimal
+    SUBDIR += py-pyroute2-minimal
     SUBDIR += py-pyroute2.protocols
     SUBDIR += py-pysendfile
     SUBDIR += py-pyshark
@@ -1236,6 +1236,7 @@
     SUBDIR += radsecproxy
     SUBDIR += radvd
     SUBDIR += rathole
+    SUBDIR += rayfish
     SUBDIR += rclone
     SUBDIR += rclone-browser
     SUBDIR += rdapper
@@ -1377,6 +1378,7 @@
     SUBDIR += rubygem-google-cloud-pubsub
     SUBDIR += rubygem-google-cloud-pubsub-v1
     SUBDIR += rubygem-google-cloud-resource_manager
+    SUBDIR += rubygem-google-cloud-resource_manager-v3
     SUBDIR += rubygem-google-cloud-spanner
     SUBDIR += rubygem-google-cloud-spanner-admin-database-v1
     SUBDIR += rubygem-google-cloud-spanner-admin-instance-v1
