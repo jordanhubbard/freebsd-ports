@@ -269,6 +269,7 @@
     SUBDIR += oggvideotools
     SUBDIR += ogmtools
     SUBDIR += olive
+    SUBDIR += omacut
     SUBDIR += onevpl
     SUBDIR += openh264
     SUBDIR += openshot
