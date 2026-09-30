@@ -662,6 +662,7 @@
     SUBDIR += ogre3d19
     SUBDIR += oidn
     SUBDIR += okular
+    SUBDIR += omasnap
     SUBDIR += open3d
     SUBDIR += openboard
     SUBDIR += opencollada
