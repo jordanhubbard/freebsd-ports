@@ -505,7 +505,6 @@
     SUBDIR += muse-sequencer
     SUBDIR += musepack
     SUBDIR += musescore
-    SUBDIR += musescore3
     SUBDIR += musiccontrol
     SUBDIR += musicpc
     SUBDIR += musicpd
@@ -651,7 +650,6 @@
     SUBDIR += py-mutagen
     SUBDIR += py-opuslib
     SUBDIR += py-playsound
-    SUBDIR += py-pocketsphinx
     SUBDIR += py-pulsectl
     SUBDIR += py-pyacoustid
     SUBDIR += py-pyaudio

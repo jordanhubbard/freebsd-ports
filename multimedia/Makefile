@@ -270,7 +270,6 @@
     SUBDIR += ogmtools
     SUBDIR += olive
     SUBDIR += omacut
-    SUBDIR += onevpl
     SUBDIR += openh264
     SUBDIR += openshot
     SUBDIR += opentimelineio
@@ -313,7 +312,6 @@
     SUBDIR += py-mido
     SUBDIR += py-moviepy
     SUBDIR += py-opentimelineio
-    SUBDIR += py-periscope
     SUBDIR += py-pretty_midi
     SUBDIR += py-pymediainfo
     SUBDIR += py-pysubs2
